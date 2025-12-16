@@ -1,0 +1,5 @@
+employee_id, region, country, role, job_family, hire_date, tenure_years, attrition_flag
+  1001, North America, United States, SWE, Engineering, 2017-07-21, 8.5, 0
+  1002, Europe, Germany, Application Engineer, Engineering, 2021-03-15, 4, 0
+  1003, APAC, India, SDE, Engineering, 2024-12-10, 1, 1
+  1004, North America, United States, Recruiter, PoPs, 2020-09-10, 5, 1
