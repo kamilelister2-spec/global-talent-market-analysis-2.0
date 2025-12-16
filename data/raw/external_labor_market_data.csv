@@ -1,0 +1,15 @@
+region,role,year,avg_wage_usd,total_opeings
+  North America, SWE, 2024, 136000,5000
+  North America, SWE, 2025, 145000, 7500
+  North America, Application Engineer, 2024, 105000, 800
+  North America, Application Engieer, 2025, 107000, 200
+  North America, Recruiter, 2024, 102000,500
+  North America, Recruiter, 2025, 107000, 400
+  Europe, SWE, 2024, 126000,1200
+  Europe, SWE, 2025, 130500, 1500  
+  Europe, Application Engineer, 2024, 95000, 1800
+  Europe, Application Engieer, 2025, 97000, 2200
+  APAC, SDE, 2024, 76000,7800
+  APAC, SDE, 2025, 76000, 8400
+  APAC, SWE, 2024, 80000, 800
+  APAC, SWE, 2025, 86000, 2400
